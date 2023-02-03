@@ -30,6 +30,7 @@
   - [Crea una carpeta images que serà exclosa del seguiment de git](#crea-una-carpeta-images-que-serà-exclosa-del-seguiment-de-git)
   - [Crea en l’arrel del repositori un fitxer anomenat Examen\_elTeuNom.odt](#crea-en-larrel-del-repositori-un-fitxer-anomenat-examen_elteunomodt)
   - [Realitza un commit indicant com a missatge «Creació del fitxer examen»](#realitza-un-commit-indicant-com-a-missatge-creació-del-fitxer-examen)
+  - [Baixa els fitxers sample.war i default.conf, necessaris per al següent apartat, en l’arrel del repositori i fes un commit amb el missatge «Important fitxers»](#baixa-els-fitxers-samplewar-i-defaultconf-necessaris-per-al-següent-apartat-en-larrel-del-repositori-i-fes-un-commit-amb-el-missatge-important-fitxers)
 
 <div style="page-break-after: always; "></div>
 
@@ -46,4 +47,8 @@
 ![i](images/3.png)
 
 ## Realitza un commit indicant com a missatge «Creació del fitxer examen»
+
+![i](images/4.png)
+
+## Baixa els fitxers sample.war i default.conf, necessaris per al següent apartat, en l’arrel del repositori i fes un commit amb el missatge «Important fitxers»
 
