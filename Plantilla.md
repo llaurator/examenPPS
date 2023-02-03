@@ -45,7 +45,13 @@
     - [Llançament del contenidor Tomcat](#llançament-del-contenidor-tomcat)
     - [Llançament del contenidor nginx](#llançament-del-contenidor-nginx)
     - [Comprovació funcionamet de l’aplicació](#comprovació-funcionamet-de-laplicació)
+    - [creació del commit](#creació-del-commit)
   - [Fusiona les dues rames](#fusiona-les-dues-rames-1)
+  - [Crea una branch anomenada «docker-compose»](#crea-una-branch-anomenada-docker-compose)
+  - [Documenta l’apartat Llançament amb docker-compose de l’apartat següent i realitza un commit amb el missatge «docker-compose»](#documenta-lapartat-llançament-amb-docker-compose-de-lapartat-següent-i-realitza-un-commit-amb-el-missatge-docker-compose)
+    - [Creació del fitxer docker-compose.yaml](#creació-del-fitxer-docker-composeyaml)
+    - [Comprovació funcionamet de l’aplicació](#comprovació-funcionamet-de-laplicació-1)
+    - [comit](#comit)
 
 <div style="page-break-after: always; "></div>
 
@@ -130,5 +136,43 @@ EXPOSE 80
 
 ![i](images/16.png)
 
+### creació del commit 
+
+![i](images/17.png)
+
 ## Fusiona les dues rames
+
+![i](images/18.png)
+
+## Crea una branch anomenada «docker-compose»
+
+![i](images/19.png)
+
+## Documenta l’apartat Llançament amb docker-compose de l’apartat següent i realitza un commit amb el missatge «docker-compose»
+
+### Creació del fitxer docker-compose.yaml
+
+```yaml
+version: "3.9"
+services:
+  tomcat:
+    container_name: aplicacionjava
+    image: tomcat:9.0
+    volumes:
+    - ./sample.war:/usr/local/tomcat/webapps/sample.war
+  nginx:
+    image: nginx
+    ports:
+      - 80:80
+    volumes:
+    - ./default.conf:/etc/nginx/conf.d/default.conf
+```
+
+### Comprovació funcionamet de l’aplicació
+
+![i](images/20.png)
+
+### comit 
+
+![i](images/21.png)
 
