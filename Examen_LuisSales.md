@@ -37,7 +37,6 @@
     - [crearem el contenedor del proxy](#crearem-el-contenedor-del-proxy)
     - [Comprovacio que funciona](#comprovacio-que-funciona)
     - [creacio del commit](#creacio-del-commit)
-    - [fusiona les dues rames](#fusiona-les-dues-rames)
   - [Crea una branch anomenada «Dockerfile»](#crea-una-branch-anomenada-dockerfile)
   - [Documenta l’apartat Creació dels Dockerfile de l’apartat següent i realitza un commit amb el missatge «Dockerfile»](#documenta-lapartat-creació-dels-dockerfile-de-lapartat-següent-i-realitza-un-commit-amb-el-missatge-dockerfile)
     - [Creació del Dockerfile Tomcat](#creació-del-dockerfile-tomcat)
@@ -46,13 +45,13 @@
     - [Llançament del contenidor nginx](#llançament-del-contenidor-nginx)
     - [Comprovació funcionamet de l’aplicació](#comprovació-funcionamet-de-laplicació)
     - [creació del commit](#creació-del-commit)
-  - [Fusiona les dues rames](#fusiona-les-dues-rames-1)
+  - [Fusiona les dues rames](#fusiona-les-dues-rames)
   - [Crea una branch anomenada «docker-compose»](#crea-una-branch-anomenada-docker-compose)
   - [Documenta l’apartat Llançament amb docker-compose de l’apartat següent i realitza un commit amb el missatge «docker-compose»](#documenta-lapartat-llançament-amb-docker-compose-de-lapartat-següent-i-realitza-un-commit-amb-el-missatge-docker-compose)
     - [Creació del fitxer docker-compose.yaml](#creació-del-fitxer-docker-composeyaml)
     - [Comprovació funcionamet de l’aplicació](#comprovació-funcionamet-de-laplicació-1)
     - [comit](#comit)
-  - [Fusiona les dues rames](#fusiona-les-dues-rames-2)
+  - [Fusiona les dues rames](#fusiona-les-dues-rames-1)
   - [Exporta el fitxer Examen\_elTeuNom.md a format pdf i realitza un commit amb el missatge «pdf examen»](#exporta-el-fitxer-examen_elteunommd-a-format-pdf-i-realitza-un-commit-amb-el-missatge-pdf-examen)
   - [crea un repositori remot (Github) i fes un push del teu repositori local](#crea-un-repositori-remot-github-i-fes-un-push-del-teu-repositori-local)
   - [Adreça GitHub](#adreça-github)
@@ -101,10 +100,6 @@
 
 ![i](images/10.png)
 
-### fusiona les dues rames
-
-![i](images/22.png)
-
 ## Crea una branch anomenada «Dockerfile»
 
 ![i](images/12.png)
@@ -146,7 +141,7 @@ EXPOSE 80
 
 ## Fusiona les dues rames
 
-![i](images/18.png)
+![i](images/22.png)
 
 ## Crea una branch anomenada «docker-compose»
 
