@@ -55,6 +55,7 @@
   - [Fusiona les dues rames](#fusiona-les-dues-rames-2)
   - [Exporta el fitxer Examen\_elTeuNom.md a format pdf i realitza un commit amb el missatge «pdf examen»](#exporta-el-fitxer-examen_elteunommd-a-format-pdf-i-realitza-un-commit-amb-el-missatge-pdf-examen)
   - [crea un repositori remot (Github) i fes un push del teu repositori local](#crea-un-repositori-remot-github-i-fes-un-push-del-teu-repositori-local)
+  - [Adreça GitHub](#adreça-github)
 
 <div style="page-break-after: always; "></div>
 
@@ -190,4 +191,8 @@ services:
 ## crea un repositori remot (Github) i fes un push del teu repositori local
 
 ![i](images/25.png)
+
+## Adreça GitHub
+
+https://github.com/llaurator/examenPPS
 
