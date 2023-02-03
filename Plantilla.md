@@ -93,7 +93,7 @@
 
 ### fusiona les dues rames
 
-![i](images/11.png)
+![i](images/22.png)
 
 ## Crea una branch anomenada «Dockerfile»
 
