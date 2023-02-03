@@ -184,3 +184,5 @@ services:
 
 ## Exporta el fitxer Examen_elTeuNom.md a format pdf i realitza un commit amb el missatge «pdf examen»
 
+![i](images/24.png)
+
