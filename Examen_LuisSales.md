@@ -94,7 +94,7 @@
 
 ### Comprovacio que funciona
 
-![i](images/9.png)
+![i](images/26.png)
 
 ### creacio del commit
 
