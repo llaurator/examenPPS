@@ -51,6 +51,7 @@
   - [Documenta l’apartat Llançament amb docker-compose de l’apartat següent i realitza un commit amb el missatge «docker-compose»](#documenta-lapartat-llançament-amb-docker-compose-de-lapartat-següent-i-realitza-un-commit-amb-el-missatge-docker-compose)
     - [Creació del fitxer docker-compose.yaml](#creació-del-fitxer-docker-composeyaml)
     - [Comprovació funcionamet de l’aplicació](#comprovació-funcionamet-de-laplicació-1)
+    - [comit](#comit)
 
 <div style="page-break-after: always; "></div>
 
@@ -170,4 +171,8 @@ services:
 ### Comprovació funcionamet de l’aplicació
 
 ![i](images/20.png)
+
+### comit 
+
+![i](images/21.png)
 
