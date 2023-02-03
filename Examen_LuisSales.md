@@ -52,6 +52,8 @@
     - [Creació del fitxer docker-compose.yaml](#creació-del-fitxer-docker-composeyaml)
     - [Comprovació funcionamet de l’aplicació](#comprovació-funcionamet-de-laplicació-1)
     - [comit](#comit)
+  - [Fusiona les dues rames](#fusiona-les-dues-rames-2)
+  - [Exporta el fitxer Examen\_elTeuNom.md a format pdf i realitza un commit amb el missatge «pdf examen»](#exporta-el-fitxer-examen_elteunommd-a-format-pdf-i-realitza-un-commit-amb-el-missatge-pdf-examen)
 
 <div style="page-break-after: always; "></div>
 
@@ -175,4 +177,10 @@ services:
 ### comit 
 
 ![i](images/21.png)
+
+## Fusiona les dues rames
+
+![i](images/23.png)
+
+## Exporta el fitxer Examen_elTeuNom.md a format pdf i realitza un commit amb el missatge «pdf examen»
 
